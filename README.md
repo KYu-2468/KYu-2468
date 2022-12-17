@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**KYu-2468/KYu-2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Kevin Yu** ✨ is a recent graduate of Fullstack Academy looking for junior software engineer opportunities.
 
-Here are some ideas to get you started:
+**Glad to see you here!**  ![visitors](https://visitor-badge.glitch.me/badge?page_id=KYu-2468.KYu-2468)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KYu-2468)](https://git.io/streak-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KYu-2468&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
