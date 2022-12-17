@@ -12,7 +12,7 @@
 - 🔭 All of my projects are available at <a href="https://kyu-2468.github.io/">Portfolio Website</a> 
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning Algorithms, TypeScript, and Java
-- 🤓 I'm not bad at Algorithms and Data Structures - Feel free to checkout my <a href="https://leetcode.com/KYu-2468/">LeetCode Profile</a>
+- 🤓 I'm not bad at Algorithms and Data Structures - Feel free to check out my <a href="https://leetcode.com/KYu-2468/">LeetCode Profile</a>
 - 💬 Ask me about Education, Games, and Software Engineering!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kevinyu2468/">LinkedIn</a>
 - 😄 Pronouns: He/Him
