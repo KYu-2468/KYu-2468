@@ -9,6 +9,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KYu-2468&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYu-2468)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 All of my projects are available at <a href="https://kyu-2468.github.io/">Portfolio Website</a> 
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning Algorithms, TypeScript, and Java
