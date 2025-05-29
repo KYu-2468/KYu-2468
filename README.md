@@ -1,7 +1,6 @@
 
 **Glad to see you here!**  ![visitors](https://visitor-badge.glitch.me/badge?page_id=KYu-2468.KYu-2468)
-
-<h1 align="center">Hi 👋, I'm ✨ Kevin ✨</h1>
+<h1 align="center">Hi 👋, I'm ✨ Kevin Yu✨</h1>
 <h3 align="center">A Creative, Collaborative, and Competent Full-stack Software Developer from California, USA</h3>
 <h4 align="center">I'm looking for a Junior Software Developer Opportunity to utilize my software engineering skills to build meaningful applications</h4>
 
